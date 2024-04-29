@@ -1,2 +1,2 @@
-# trab_grafos
+# trabalho_implementação_graofs
 Trabalho Grafos
